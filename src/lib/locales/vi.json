@@ -1,0 +1,17 @@
+{
+  "betAmount": "Số tiền cược",
+  "difficulty": "Độ khó",
+  "cashout": "Rút",
+  "pump": "Bơm",
+  "totalProfit": "Tổng lợi nhuận ({multiplier}x)",
+  "hard": "Khó",
+  "manual": "Thủ công",
+  "auto": "Tự động",
+  "submit": "Gửi",
+  "reset": "Làm lại",
+  "langSwitch": "Ngôn ngữ",
+  "profitPlaceholder": "0.00000000",
+  "betPlaceholder": "0.00000000",
+  "apiSuccess": "Thành công",
+  "apiError": "Lỗi khi gọi API"
+}
