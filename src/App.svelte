@@ -1,4 +1,4 @@
-<svelte:options customElement="my-game-core" />
+<svelte:options customElement="game-1-test" />
 
 <script lang="ts">
   import { onDestroy, onMount } from "svelte";
